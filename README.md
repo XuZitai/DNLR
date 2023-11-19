@@ -2,7 +2,7 @@
 
 
 [[Paper]](https://ieeexplore.ieee.org/abstract/document/10304214)
-[[Demo code]](https://github.com/XuZitai/S2S-WTV/blob/main/S2S_WTV.py)
+[[Demo code]](https://github.com/XuZitai/DNLR/DNLR.py)
 # Deep Nonlocal Regularizer: A Self-Supervised Learning Method for 3-D Seismic Denoising  
 
 
@@ -11,14 +11,14 @@
 This article is accepted by IEEE TGRS. If you use this model in your research, please cite:
 
     @ARTICLE{dnlr,
-  author={Xu, Zitai and Luo, Yisi and Wu, Bangyu and Meng, Deyu and Chen, Yangkang},
-  journal={IEEE Transactions on Geoscience and Remote Sensing}, 
-  title={Deep Nonlocal Regularizer: A Self-Supervised Learning Method for 3-D Seismic Denoising}, 
-  year={2023},
-  volume={61},
-  number={},
-  pages={1-17},
-  doi={10.1109/TGRS.2023.3329303}}
+    author={Xu, Zitai and Luo, Yisi and Wu, Bangyu and Meng, Deyu and Chen, Yangkang},
+    journal={IEEE Transactions on Geoscience and Remote Sensing}, 
+    title={Deep Nonlocal Regularizer: A Self-Supervised Learning Method for 3-D Seismic Denoising}, 
+    year={2023},
+    volume={61},
+    number={},
+    pages={1-17},
+    doi={10.1109/TGRS.2023.3329303}}
      
 
 ### Abstract
